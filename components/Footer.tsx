@@ -6,7 +6,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className='relative z-10 w-full '>
+    <div className='relative z-10 w-full bg-gradient-to-b from-sky-200 to-sky-100'>
       <div className='mx-auto max-w-[1440px] text-black flex flex-wrap max-sm:text-[11px] text-sm sm:px-16 px-6 py-4  justify-between'>
         <div>
           <Link href='/'>

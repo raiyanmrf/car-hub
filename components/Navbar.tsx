@@ -17,7 +17,7 @@ const Navbar = () => {
           />
         </Link>
         <Link href='/'>
-          <CustomButton title='Sign In' customStyle='bg-white ' />
+          <CustomButton title='Sign In' customStyle=' bg-sky-300 rounded-lg ' />
         </Link>
       </nav>
     </header>
